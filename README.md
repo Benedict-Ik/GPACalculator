@@ -13,3 +13,5 @@ The app has a grading system that grades scores dynamically based on the below:
 |  0 -  39 |   F     |  0     | Fail
 
 Users get to input course code, their course unit, and scores they had in each course one after the other, while the calculator takes care of calculating the course score and thereafter displays the Grade Point Average.
+
+To use, download the "GPACalculator" folder to your local machine and run the *main* file
