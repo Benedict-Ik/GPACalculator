@@ -1,5 +1,5 @@
 # GPA Calculator
-This is a GPA Calculator program made via Java 
+This is a GPA Calculator program made with Java 
 
 The app has a grading system that grades scores dynamically
 
